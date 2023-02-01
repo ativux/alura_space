@@ -1,0 +1,1 @@
+# Projeto Realizado para o estudo Inicial de **DJANGO**
